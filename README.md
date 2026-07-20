@@ -1,16 +1,42 @@
-## Hi there 👋
+## Software Engineer Advisor | Data Science Graduate Student | Emerging Technology Leader
 
-<!--
-**ShalaundaBennett/ShalaundaBennett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an experienced software engineer and data science graduate student with more than 20 years of professional experience in technology and corporate environments. My background includes software development, data analysis, mathematics, business administration, and organizational leadership.
 
-Here are some ideas to get you started:
+I hold a Bachelor of Science in Computer Science with a minor in Mathematics and an MBA with a concentration in Organizational Leadership. I am currently completing a Master of Science in Data Science, with an anticipated graduation date of **December 2026**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- Software Engineer with experience developing and supporting business-critical applications
+- Graduate student specializing in Data Science, Machine Learning, and Analytics
+- Experienced in Python, SQL, data visualization, machine learning, and statistical analysis
+- Passionate about mentoring students and making technical concepts easier to understand
+- Aspiring to move into a Technology or Data Analytics management role
+
+---
+
+## 💻 Technical Skills
+
+### Programming & Data
+
+- Python
+- SQL
+- R
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Jupyter Notebook
+- PostgreSQL
+
+### Analytics & Machine Learning
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preparation
+- Classification & Regression
+- Clustering
+- Model Evaluation
+- Statistical Analysis
+- Data Visualization
+- Business & Workforce Analytics
